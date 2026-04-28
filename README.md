@@ -1,4 +1,4 @@
-> [!TIP]
+> [!IMPORTANT]
 > Este repositorio contiene la primera versión de **CódiGol**, desarrollada para la Hackathon de MiduDev 2025.  
 > Gracias al feedback recibido y a limitaciones de tiempo, varias mejoras importantes no pudieron implementarse.  
 > 
