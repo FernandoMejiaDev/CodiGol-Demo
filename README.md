@@ -48,7 +48,7 @@ Durante la transmisión final de la Hackathon organizada por [Midudev](https://w
 
 ![javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=d6bb38&logoColor=black&labelColor=&style=for-the-badge)
 ![React](https://img.shields.io/static/v1?message=React&logo=React&label=&color=1082a7&logoColor=white&labelColor=&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/static/v1?message=TailwindCSS&logo=TailwindCSS&label=&color=3ebff8&logoColor=white&labelColor=&style=for-the-badge)
+![tailwind](https://img.shields.io/static/v1?message=tailwind_CSS&logo=tailwindcss&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge)
 ![pnpm](https://img.shields.io/static/v1?message=pnpm&logo=pnpm&label=&color=F69220&logoColor=white&labelColor=&style=for-the-badge)
 ![ClerK](https://img.shields.io/static/v1?message=clerk-para-el-sistema-de-login&logo=clerk&label=&color=714dff&logoColor=white&labelColor=&style=for-the-badge)
 
