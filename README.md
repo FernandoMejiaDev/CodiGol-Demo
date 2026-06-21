@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Este repositorio contiene la primera versión de **CódiGol**, desarrollada para la Hackathon de MiduDev 2025.  
+> Este repositorio contiene la primera versión de **CódiGol**, desarrollada para la **Hackathon de MiduDev 2025.**  
 > Gracias al feedback recibido y a limitaciones de tiempo, varias mejoras importantes no pudieron implementarse.  
 > 
 > Actualmente, el proyecto continúa en una versión remasterizada con una mejor arquitectura y nuevas funcionalidades:  
@@ -9,17 +9,17 @@
 
 #  **CódiGol**
 
-**CódiGol** es un pequeño videojuego web diseñado para ayudarte a aprender y practicar Tailwind CSS de forma divertida y diferente. Inspirado en la emoción del fútbol, este juego te reta a anotar goles completando desafíos de diseño utilizando Tailwind.
+**CódiGol** es un pequeño videojuego web diseñado para ayudarte a aprender y practicar **Tailwind CSS** de forma divertida y diferente. Inspirado en la emoción del fútbol, este juego te reta a anotar goles completando desafíos de diseño utilizando **Tailwind CSS.**
 
-Esta idea surgió como un concepto que había descartado tiempo atrás, pero gracias a la experiencia adquirida y la motivación de la [Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n), decidí retomarla y convertirla en una demo funcional. El desarrollo **se realizó en menos de 10 días, desde el 8 hasta el 21 de mayo de 2025**, como parte del reto.
+Esta idea surgió como un concepto que había descartado tiempo atrás, pero gracias a la experiencia adquirida y la motivación de la *[Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n)*, decidí retomarla y convertirla en una demo funcional. El desarrollo **se realizó en menos de 10 días, desde el 8 hasta el 21 de mayo de 2025**, como parte del reto.
 
 Inicialmente, el proyecto estaba pensado para enseñar JavaScript, pero al notar que ya existen muchas plataformas enfocadas en eso, decidí optar por **Tailwind CSS**, ya que más allá de su documentación oficial, no encontré recursos prácticos e interactivos para aprenderlo. Por eso, este proyecto busca ser una forma diferente, entretenida y dinámica de dominar **Tailwind CSS**, combinando aprendizaje y mecánicas de juego.
 
-Como parte del desarrollo para la [Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n), se integró [Clerk SDK](https://clerk.com/docs) para la autenticación de usuarios donde **es necesario registrarse o iniciar sesión para poder jugar**.
+Como parte del desarrollo para la *[Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n)*, se integró *[Clerk SDK](https://clerk.com/docs)* para la autenticación de usuarios donde **es necesario registrarse o iniciar sesión para poder jugar**.
 
 ## Mención Especial en la Final de la Hackathon de Midudev 
 
-Durante la transmisión final de la Hackathon organizada por [Midudev](https://www.twitch.tv/videos/2465451345) y [Clerk SDK](https://clerk.com/docs), ¡**CódiGol** fue destacado como uno de los proyectos más originales!
+Durante la transmisión final de la Hackathon organizada por *[Midudev](https://www.twitch.tv/videos/2465451345)* y *[Clerk SDK](https://clerk.com/docs)*, ¡**CódiGol** fue destacado como uno de los proyectos más originales!
 
 > *"Luego también hay gente que se ha atrevido a hacer como una plataforma para aprender Tailwind. Se llama CódiGol. Tienes el entrenador, el coach aquí. Y entonces te va explicando la técnica del responsive y tal... Golazo. Has dominado la técnica..."*  
 > — *Midudev en el stream de la final de la Hackathon 2025*
