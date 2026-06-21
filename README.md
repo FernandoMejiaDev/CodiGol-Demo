@@ -3,7 +3,7 @@
 > Gracias al feedback recibido y a limitaciones de tiempo, varias mejoras importantes no pudieron implementarse.  
 > 
 > Actualmente, el proyecto continúa en una versión remasterizada con una mejor arquitectura y nuevas funcionalidades:  
-> [CodiGol-remastered](https://github.com/FernandoMejiaDev/CodiGol-remastered)
+> *[CodiGol-remastered](https://github.com/FernandoMejiaDev/CodiGol-remastered)*
 
 ![CódiGolLogo](https://github.com/FernandoMejiaDev/CodiGol-Demo/blob/main/assets/img/CodiGolLogo.webp)
 
