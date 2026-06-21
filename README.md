@@ -7,7 +7,7 @@
 
 ![CódiGolLogo](https://github.com/FernandoMejiaDev/CodiGol-Demo/blob/main/assets/img/CodiGolLogo.webp)
 
-#  ⚽ **CódiGol**
+#  **CódiGol**
 
 **CódiGol** es un pequeño videojuego web diseñado para ayudarte a aprender y practicar Tailwind CSS de forma divertida y diferente. Inspirado en la emoción del fútbol, este juego te reta a anotar goles completando desafíos de diseño utilizando Tailwind.
 
@@ -17,32 +17,32 @@ Inicialmente, el proyecto estaba pensado para enseñar JavaScript, pero al notar
 
 Como parte del desarrollo para la [Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n), se integró [Clerk SDK](https://clerk.com/docs) para la autenticación de usuarios donde **es necesario registrarse o iniciar sesión para poder jugar**.
 
-## 🏅 Mención Especial en la Final de la Hackathon de Midudev 
+## Mención Especial en la Final de la Hackathon de Midudev 
 
-Durante la transmisión final de la Hackathon organizada por [Midudev](https://www.twitch.tv/videos/2465451345) y [Clerk SDK](https://clerk.com/docs), ¡**CódiGol** fue destacado como uno de los proyectos más originales! ⚽🔥
+Durante la transmisión final de la Hackathon organizada por [Midudev](https://www.twitch.tv/videos/2465451345) y [Clerk SDK](https://clerk.com/docs), ¡**CódiGol** fue destacado como uno de los proyectos más originales!
 
 > *"Luego también hay gente que se ha atrevido a hacer como una plataforma para aprender Tailwind. Se llama CódiGol. Tienes el entrenador, el coach aquí. Y entonces te va explicando la técnica del responsive y tal... Golazo. Has dominado la técnica..."*  
 > — *Midudev en el stream de la final de la Hackathon 2025*
 
 😅 Sí, el entrenador hablaba un poquito de más en la introducción (¡gracias por ese feedback, Midu!), pero ya lo solucioné: **ahora los diálogos son más cortos y directos al grano**, para que la experiencia sea más ágil y divertida.
 
-📺 **Puedes ver ese momento aquí (¡es un tremendo golazo!):**
+**Puedes ver ese momento aquí (¡es un tremendo golazo!):**
 
 [![Ver mención en el stream](https://img.youtube.com/vi/0Z0Vy0VWQeY/hqdefault.jpg)](https://www.youtube.com/watch?v=0Z0Vy0VWQeY)
 
 [![Ver mención en el stream](https://img.shields.io/static/v1?message=youtube&logo=Youtube&label=&color=c91e1e&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/watch?v=0Z0Vy0VWQeY)
 
-## 🌐 Enlace a la demo
+## Enlace a la demo
 
 [![Juega CódiGol ahora](https://img.shields.io/static/v1?message=Juega-CódiGol-ahora&logo=itchdotio&label=&color=fff&logoColor=black&labelColor=&style=for-the-badge)](https://codigol-demo.netlify.app/)
 
-## 🧠 ¿Qué aprenderás?
+## ¿Qué aprenderás?
 
 - Fundamentos y clases de utilidad de **Tailwind CSS**
 - Estilos responsive
 - Buenas prácticas al trabajar con **Tailwind CSS**
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 <div align="left">
 
@@ -54,7 +54,7 @@ Durante la transmisión final de la Hackathon organizada por [Midudev](https://w
 
 </div >
 
- ## 🔐 Autenticación con Clerk
+ ## Autenticación con Clerk
 
 Para poder jugar, los usuarios deben crear una cuenta o iniciar sesión.
 [Clerk SDK](https://clerk.com/docs) se ha utilizado para manejar la autenticación, protegiendo las rutas del juego y personalizando la experiencia del jugador con sesiones activas.
@@ -70,7 +70,7 @@ A continuación se muestran capturas del flujo de autenticación:
 
 # Detalles del Juego 
 
-## 🎞  Historia y Temática de CódiGol ⚽
+## Historia y Temática de CódiGol
 
 En **CódiGol**, el jugador se une a los **Wind Jaguars**, un equipo decidido a conquistar la **Full Stack League**. Desde el primer momento, el entrenador te da la bienvenida al equipo y te explica cómo funcionará tu entrenamiento, en cada partido aprenderás una **nueva técnica de Tailwind CSS**.
 
@@ -80,7 +80,7 @@ El camino hacia la victoria está dividido en 10 partidos, y cada uno representa
 
 <img src="https://github.com/FernandoMejiaDev/CodiGol-Demo/blob/main/assets/img/imgReadmeN5.webp" alt="imgReadmeN5" /> 
 
-## 🧠 Entrenamiento antes del partido
+## Entrenamiento antes del partido
 
 Antes de cada partido, el jugador debe completar un entrenamiento. Aquí podrá **experimentar, cometer errores y aprender sin presión**. El entrenador explicará cómo funciona cada clase de Tailwind, y el jugador deberá resolver ejercicios prácticos para avanzar.
 
@@ -88,7 +88,7 @@ El entrenamiento solo termina cuando todas las respuestas son correctas, asegura
 
 <img src="https://github.com/FernandoMejiaDev/CodiGol-Demo/blob/main/assets/img/imgReadmeN6.webp" alt="imgReadmeN6" /> 
 
-## ⚔️ El Partido
+## El Partido
 
 Una vez completado el entrenamiento, es momento del partido. En la escena de VS, se presenta el contexto del enfrentamiento. Por ejemplo, en el primer partido, los **Wind Jaguars** van perdiendo 2-0 contra los **Gem Rubies**.
 
@@ -96,21 +96,21 @@ A medida que se avanza en la liga, el **margen de error se reduce** y los desaf�
 
 <img src="https://github.com/FernandoMejiaDev/CodiGol-Demo/blob/main/assets/img/imgReadmeN7.webp" alt="imgReadmeN7" /> 
 
-## 🧭 Estrategia y Recordatorio
+## Estrategia y Recordatorio
 
 Antes de entrar al segundo tiempo, el entrenador te recuerda lo aprendido y te da contexto de lo que está en juego. Además, menciona que tienes **5 jugadas o estrategias** para crear oportunidades de anotar — esto representa tus **5 intentos** para resolver correctamente los ejercicios en el partido.
 
 <img src="https://github.com/FernandoMejiaDev/CodiGol-Demo/blob/main/assets/img/imgReadmeN8.webp" alt="imgReadmeN8" /> 
 
-## 🏟️ El Partido Real
+## El Partido Real
 
 Durante el partido, el jugador **aplica lo aprendido** en el entrenamiento. Cada ejercicio es una jugada, y solo hay **una oportunidad** para acertar. Si fallas, se pasa directamente al siguiente ejercicio.
 
 Al final del partido, se muestra el resultado, que determinará la posición del equipo en la tabla:
 
-- ✅ Victoria = 3 puntos
-- 🤝 Empate = 1 punto
-- ❌ Derrota = 0 puntos
+- Victoria = 3 puntos
+- Empate = 1 punto
+- Derrota = 0 puntos
 
 El objetivo final es **sumar la mayor cantidad de puntos** a lo largo de la liga y convertirte en el campeón de la Full Stack League, dominando las técnicas más importantes de **Tailwind CSS** en el camino.
 
@@ -124,19 +124,19 @@ Este modal tiene como objetivo evitar problemas de visualización y usabilidad, 
 
 <img src="https://github.com/FernandoMejiaDev/CodiGol-Demo/blob/main/assets/img/imgReadmeN10.webp" alt="imgReadmeN10" /> 
 
-## 🎯 Objetivo del juego
+## Objetivo del juego
 
 - Ganar la liga enfrentando a 10 equipos diferentes
 - Resolver ejercicios reales de Tailwind para avanzar
 - Mejorar tus habilidades de **TailwindCSS** en un contexto práctico y divertido
 
-## 📋 Notas técnicas
+## Notas técnicas
 
 - Cada pantalla está pensada como una fase: introducción, entrenamiento, partido y resultado.
 - Los ejercicios se evalúan en tiempo real y afectan el marcador.
 - Las rutas están protegidas con [Clerk SDK](https://clerk.com/docs) por que si se intenta acceder lo redireccionará a la página principal.
 
-## 🚀 Instalación y uso local
+## Instalación y uso local
 
 Si deseas correr **CódiGol** en tu máquina local, sigue estos pasos:
 
@@ -148,15 +148,15 @@ Si deseas correr **CódiGol** en tu máquina local, sigue estos pasos:
 4. Inicia el servidor de desarrollo
     ```
      npm start
-## ⚡ ¿Por qué usar npm start?
+## ¿Por qué usar npm start?
 **CódiGol** está construido con React, por lo que requiere un entorno de desarrollo para compilar y visualizar correctamente la aplicación.
 El comando `npm start` inicia el servidor de desarrollo de React, permitiendo ver los cambios en tiempo real.
 
-## 🚧  Estructura del proyecto 🧱
+## Estructura del proyecto
 La arquitectura de **CódiGol** está pensada para mantener el código limpio, modular y fácil de escalar. Aquí se explica cada carpeta y archivo clave del proyecto:
 
 <details>
-<summary>📁 Estructura completa</summary>
+<summary>Estructura completa</summary>
     
   ```bash
 src/
@@ -222,12 +222,13 @@ src/
 ```
 </details>
 
-## ❤️ Agradecimientos
+## Agradecimientos
 
 - A [MiduDev y Clerk SDK](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n) por organizar la hackathon.
 - A ti, por jugar y aprender con **CódiGol** y leer este readMe.
 
-## 📜 Licencia
+## Licencia
 Este proyecto fue desarrollado como proyecto para la [Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n) y está disponible con fines educativos y demostrativos.
 
 
+-----
