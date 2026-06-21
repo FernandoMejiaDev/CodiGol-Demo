@@ -57,12 +57,12 @@ Durante la transmisión final de la Hackathon organizada por *[Midudev](https://
  ## Autenticación con Clerk
 
 Para poder jugar, los usuarios deben crear una cuenta o iniciar sesión.
-[Clerk SDK](https://clerk.com/docs) se ha utilizado para manejar la autenticación, protegiendo las rutas del juego y personalizando la experiencia del jugador con sesiones activas.
+*[Clerk SDK](https://clerk.com/docs)* se ha utilizado para manejar la autenticación, protegiendo las rutas del juego y personalizando la experiencia del jugador con sesiones activas.
 
 ## Integración con Clerk
-**CódiGol** utiliza [Clerk SDK](https://clerk.com/docs) como sistema de autenticación para gestionar el acceso de los usuarios. La integración de [Clerk SDK](https://clerk.com/docs) permite proteger rutas y garantizar que solo los usuarios registrados puedan acceder a la experiencia completa del juego.
+**CódiGol** utiliza *[Clerk SDK](https://clerk.com/docs)* como sistema de autenticación para gestionar el acceso de los usuarios. La integración de *[Clerk SDK](https://clerk.com/docs)* permite proteger rutas y garantizar que solo los usuarios registrados puedan acceder a la experiencia completa del juego.
 
-Cuando un usuario intenta iniciar el juego sin estar autenticado, se activa automáticamente el modal de inicio de sesión o registro proporcionado por [Clerk SDK](https://clerk.com/docs).
+Cuando un usuario intenta iniciar el juego sin estar autenticado, se activa automáticamente el modal de inicio de sesión o registro proporcionado por *[Clerk SDK](https://clerk.com/docs)*.
 
 A continuación se muestran capturas del flujo de autenticación:
 
@@ -228,7 +228,6 @@ src/
 - A ti, por jugar y aprender con **CódiGol** y leer este readMe.
 
 ## Licencia
-Este proyecto fue desarrollado como proyecto para la [Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n) y está disponible con fines educativos y demostrativos.
-
+Este proyecto fue desarrollado como proyecto para la *[Hackathon de MiduDev 2025](https://github.com/midudev/hackaton-clerk-2025?tab=readme-ov-file#%EF%B8%8F-c%C3%B3mo-participar-en-la-hackat%C3%B3n)* y está disponible con fines educativos y demostrativos.
 
 -----
