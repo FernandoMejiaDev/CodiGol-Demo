@@ -116,7 +116,7 @@ El objetivo final es **sumar la mayor cantidad de puntos** a lo largo de la liga
 
 <img src="https://github.com/FernandoMejiaDev/CodiGol-Demo/blob/main/assets/img/imgReadmeN9.webp" alt="imgReadmeN9" /> 
 
-# 📱 Detalle sobre la Responsividad y Modal de Tamaño
+# Detalle sobre la Responsividad y Modal de Tamaño
 
 **CódiGol** ha sido diseñado para ofrecer la mejor experiencia en pantallas grandes, ya que cuenta con un editor de código integrado que requiere espacio suficiente para su uso cómodo y funcional. Por esta razón, cuando el juego se ejecuta en dispositivos con un ancho de pantalla menor a **1280px**, se muestra un modal informativo que indica que el tamaño de la pantalla no es el adecuado.
 
