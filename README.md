@@ -134,7 +134,7 @@ Este modal tiene como objetivo evitar problemas de visualización y usabilidad, 
 
 - Cada pantalla está pensada como una fase: introducción, entrenamiento, partido y resultado.
 - Los ejercicios se evalúan en tiempo real y afectan el marcador.
-- Las rutas están protegidas con [Clerk SDK](https://clerk.com/docs) por que si se intenta acceder lo redireccionará a la página principal.
+- Las rutas están protegidas con *[Clerk SDK](https://clerk.com/docs)* por que si se intenta acceder lo redireccionará a la página principal.
 
 ## Instalación y uso local
 
@@ -144,7 +144,7 @@ Si deseas correr **CódiGol** en tu máquina local, sigue estos pasos:
 2. Instala las dependencias
      ```
     npm install
-3. Crea el archivo `.env` y integra la variable de entorno para integrar [Clerk SDK](https://clerk.com/docs)
+3. Crea el archivo `.env` y integra la variable de entorno para integrar *[Clerk SDK](https://clerk.com/docs)*
 4. Inicia el servidor de desarrollo
     ```
      npm start
