@@ -30,11 +30,11 @@ Durante la transmisión final de la Hackathon organizada por *[Midudev](https://
 
 [![Ver mención en el stream](https://img.youtube.com/vi/0Z0Vy0VWQeY/hqdefault.jpg)](https://www.youtube.com/watch?v=0Z0Vy0VWQeY)
 
-[![Ver mención en el stream](https://img.shields.io/static/v1?message=youtube&logo=Youtube&label=&color=c91e1e&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/watch?v=0Z0Vy0VWQeY)
+[![youtube](https://img.shields.io/badge/youtube-fff?style=for-the-badge&logo=youtube&logoColor=c91e1e)](https://www.youtube.com/watch?v=0Z0Vy0VWQeY)
 
 ## Enlace a la demo
 
-[![Juega CódiGol ahora](https://img.shields.io/static/v1?message=Juega-CódiGol-ahora&logo=itchdotio&label=&color=fff&logoColor=black&labelColor=&style=for-the-badge)](https://codigol-demo.netlify.app/)
+![codigol](https://img.shields.io/badge/juega_códigol-000000?style=for-the-badge&logo=devbox&logoColor=06B6D4)
 
 ## ¿Qué aprenderás?
 
@@ -46,11 +46,11 @@ Durante la transmisión final de la Hackathon organizada por *[Midudev](https://
 
 <div align="left">
 
-![javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=d6bb38&logoColor=black&labelColor=&style=for-the-badge)
-![React](https://img.shields.io/static/v1?message=React&logo=React&label=&color=1082a7&logoColor=white&labelColor=&style=for-the-badge)
-![tailwind](https://img.shields.io/static/v1?message=tailwind_CSS&logo=tailwindcss&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge)
-![pnpm](https://img.shields.io/static/v1?message=pnpm&logo=pnpm&label=&color=F69220&logoColor=white&labelColor=&style=for-the-badge)
-![ClerK](https://img.shields.io/static/v1?message=clerk-para-el-sistema-de-login&logo=clerk&label=&color=714dff&logoColor=white&labelColor=&style=for-the-badge)
+![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![react](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![tailwind](https://img.shields.io/badge/tailwind_css-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![pnpm](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=F69220)
+![clerk](https://img.shields.io/badge/clerk-000000?style=for-the-badge&logo=clerk&logoColor=6C47FF)
 
 </div >
 
